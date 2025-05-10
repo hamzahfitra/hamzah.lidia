@@ -1,4 +1,4 @@
-# 💒 Undangan Pernikahan Digital: Lidia & Hamzah
+# Undangan Pernikahan Digital: Lidia & Hamzah
 
 Selamat datang di website undangan pernikahan digital untuk acara spesial **Lidia & Hamzah**.  
 Proyek ini dibuat menggunakan **HTML**, **CSS**, dan **JavaScript** sebagai media undangan modern yang praktis dan elegan.
